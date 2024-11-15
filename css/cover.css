@@ -585,7 +585,7 @@ button {
 .collectionSecond {
   position: relative;
   padding-top: 64px;
-  background: url('../Images/bg.png') no-repeat;
+  background: url('../images/bg.png') no-repeat;
   background-position: center;
   background-size: cover;
 }
